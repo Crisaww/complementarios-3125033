@@ -1,0 +1,35 @@
+Herramienta,Porcentaje,Usage Index
+Docker,53.9,100
+Npm,49.6,95
+Pip,32.4,85
+Homebrew,22.3,80
+Make,20.8,78
+Vite,19.9,75
+Kubernetes,19.4,73
+Yarn,18.8,70
+Webpack,18.4,68
+NuGet,16.1,65
+Maven,15.6,63
+Visual Studio Solution,15.3,62
+Gradle,15.3,62
+MSBuild,11,55
+Terraform,10.6,54
+APT,10.5,54
+pnpm,8.9,50
+Composer,8.8,50
+Chocolatey,8.8,50
+Ansible,7.9,48
+Pacman,6.8,45
+Unity 3D,5.9,42
+Podman,5,40
+Godot,4.4,38
+Ninja,4.1,35
+Bun,3.8,33
+Google Test,3.1,30
+Unreal Engine,3,28
+Ant,2.8,27
+Nix,2.7,25
+Dagger,1.2,20
+Puppet,1.2,20
+Pulumi,0.9,18
+Chef,0.7,15

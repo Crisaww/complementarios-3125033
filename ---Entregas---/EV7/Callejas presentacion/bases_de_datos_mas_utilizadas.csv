@@ -1,0 +1,36 @@
+Database,Popularity (%),Usage Index
+PostgreSQL,48.7,100
+MySQL,40.3,95
+SQLite,33.1,90
+Microsoft SQL Server,25.3,85
+MongoDB,24.8,80
+Redis,20,75
+MariaDB,17.2,70
+Elasticsearch,12.5,65
+Oracle,10.1,60
+Dynamodb,7.9,55
+Firebase Realtime Database,5.8,50
+Cloud Firestore,5.4,48
+BigQuery,4.8,45
+Microsoft Access,4.2,43
+Supabase,4,40
+H2,3.8,38
+Cosmos DB,3.3,35
+Snowflake,2.6,33
+InfluxDB,2.5,30
+Cassandra,2.4,28
+Databricks SQL,1.9,25
+Neo4J,1.9,23
+IBM DB2,1.7,22
+Clickhouse,1.7,20
+Solr,1.5,18
+DuckDB,1.4,15
+Firebird,1.1,13
+Couch DB,1,10
+Cockroachdb,1,8
+Couchbase,0.7,5
+Presto,0.6,3
+Datomic,0.4,2
+EventStoreDB,0.3,1
+RavenDB,0.3,1
+TiDB,0.2,1
